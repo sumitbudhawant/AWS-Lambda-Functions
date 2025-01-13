@@ -21,7 +21,7 @@ This AWS Lambda function performs a security scan on your AWS environment, check
 1. Clone the repository:
     ```sh
     git clone https://github.com/sumitbudhawant/AWS-Lambda-Functions.git
-    cd 'Security _Audit'
+    cd Security_Audit
     ```
 
 2. Install the required dependencies (if applicable).
